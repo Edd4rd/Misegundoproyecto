@@ -1,0 +1,9 @@
+Actividad. Explorando el entorno de GitHub
+
+Se observan aspectos de bitcoin. En estos se visualizan lineas de codigo acompñadas en algunos casos de logos, ademas de comentarios en un lenguaje que solo es entendible entre estos.
+
+Se observa la parte de las estensiones de Google Chrome. Los cuales se consideran "complementos a los usarios para personalizar el navegador web". Dentro de estas se encuentran desde grabadores de pantalla, obtener el modo oscuro, guardar archivos web asi como aspectos de seguridad (guardar marcadores o bloquear rastreadores)
+
+Nota: Se requiere un mayor conocimiento para ver de que trata cada uno de los aspectos observados y no errar en su descripcion.
+
+Saludos
